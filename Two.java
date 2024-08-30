@@ -1,5 +1,5 @@
 package com.abcframs;
-public class One {
+public class Two {
 
 public static void main(String[] args) {
 System.out.println("Hello world");
